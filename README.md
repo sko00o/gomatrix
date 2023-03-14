@@ -1,6 +1,6 @@
 # gomatrix
 
-Based on termbox-go.
+Based on [gdamore/tcell](https://github.com/gdamore/tcell).
 
 Inspired by [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix)
 
@@ -11,4 +11,3 @@ go get github.com/sko00o/gomatrix
 gomatrix
 # Press `ctrl+c` to quit.
 ```
-
